@@ -1,8 +1,6 @@
 # bun-starter
 A minimalist and performance-oriented boilerplate that leverages the simplicity and efficiency of Bun, Express, React, and raw SQL.
 
-inimalist Web Boilerplate with Bun, Express, React, and Raw SQL
-
 ## Overview
 
 This boilerplate is designed for developers seeking a lean and efficient approach to building web applications. By utilizing Bun for its modern JavaScript runtime, Express for server-side logic, React for dynamic user interfaces, and raw SQL for direct database interactions, this project prioritizes performance and simplicity. The inclusion of Docker ensures a seamless development and deployment process, encapsulating the application in a consistent environment across different stages.
